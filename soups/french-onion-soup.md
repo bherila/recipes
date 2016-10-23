@@ -1,5 +1,5 @@
 ## ingredients 
-
+```
 5	large yellow onions (about 5 lbs.)
 3 tbs.	unsalted butter
 5 cups	chicken stock
@@ -9,6 +9,7 @@
 1 tbs.	black pepper (freshly ground)
 1 tsp.	thyme (dried) -- or 1 sprig fresh
 salt to taste
+```
 
 ## directions
 
