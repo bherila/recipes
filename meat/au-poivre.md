@@ -5,7 +5,7 @@
 1 T   chopped shallots
 1 T   coarse sea salt 
 1 t.  herbes de Provence
-3 T   coarsely ground black pepper (I probably donít use that much)
+3 T   coarsely ground black pepper (I probably don't use that much)
 4 lb. beef tenderloin
 ```
 
