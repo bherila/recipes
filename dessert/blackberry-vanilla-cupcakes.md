@@ -2,13 +2,15 @@
 ## Blackberry Coulis
 
 Makes about 150ml or 1/4 pint
+```
 	250g    blackberries (8.8 oz)
 	50g     golden caster sugar
 	1/2 tsp vanilla extract
+```
 
 Put the blackberries and sugar into a small pan with 100ml (3.5 fl oz.) water. Bring to the boil, then simmer for 5 mins until the fruit is soft. Stir in the vanilla, remove and cool a little.
 
-Tip the contents of the pan into a blender or food processor, and whizz to a purée, then strain through a sieve, rubbing it through with the back of a ladle or spoon. Serve warm or chilled.
+Tip the contents of the pan into a blender or food processor, and whizz to a purÃ©e, then strain through a sieve, rubbing it through with the back of a ladle or spoon. Serve warm or chilled.
 
 Keeps in an airtight container in the fridge for up to 3 days, or freeze for up to 3 months.
 
@@ -18,6 +20,7 @@ Keeps in an airtight container in the fridge for up to 3 days, or freeze for up 
 Makes 12 cupcakes
 
 For the cupcakes:
+```
 	1 cup   flour
 	2 tsp.  baking powder
 	1 tsp.  salt
@@ -27,18 +30,20 @@ For the cupcakes:
 	1 tsp.  vanilla extract
 	1/2 cup milk
 	1/2 cup blackberry coulis (recipe above)
+```
 
 For the frosting: 
+```
 	8 oz.   cream cheese, at room temperature
 	3 cups  powdered sugar, sifted
 	2 tbsp. blackberry coulis
-
-Optional: Blackberries for decoration
+	Optional: Blackberries for decoration
+```
 
 This recipe makes delicious, light and moist cupcakes with a fruity taste.
 
 
-##The Method
+## Preparation
 
 Preheat the oven to 350 F (180 C). 
 
