@@ -3,7 +3,7 @@
 * Melt **1/4 lb butter** in microwave
 * Put bowl over a pot of simering water
 * Whisk in **4 beaten egg yolks**
-* Stir in **1 tsp. chili powder**
+* Stir in **1 tsp. chili powder** and salt/pepper to taste
 
 ## Eggs Benedict
 
