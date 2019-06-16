@@ -1,4 +1,4 @@
-Singapore Satay Peanut Sauce
+Singapore Satay Peanut Sauce / satay sauce for fried tofu
 
 (credits to kitchen tigress for her brilliant research into getting that perfect consistency and golden hue in the peanut sauce)
 
