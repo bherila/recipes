@@ -1,4 +1,4 @@
-# French Onion Soup 1 
+# French Onion Soup ~ Savoury Style
 
 ## ingredients 
 ```
@@ -23,7 +23,7 @@ Deglaze the pan a third time, with the other half of the wine. Allow another lay
 
 Serve piping hot, with toasted crusty bread and gruyere cheese melted under the broiler.
 
-# French Onion Soup 2
+# French Onion Soup ~ Umami Style
 
 Makes 4 qts.
 
